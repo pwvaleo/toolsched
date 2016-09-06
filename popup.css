@@ -1,0 +1,19 @@
+textarea {
+    margin-bottom: 1rem;
+}
+
+body {
+    background-image: repeating-linear-gradient(45deg, 
+    hsl(000,40%,80%) 2px,
+    transparent 5px,
+    transparent 10px)
+}
+
+h1 {
+    text-align: center;
+}
+
+#info {
+    padding: .5rem;
+    background-color: hsla(0,5%,100%, .8);
+}
